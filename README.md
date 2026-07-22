@@ -6,9 +6,10 @@ Canonical repository for the QNFO Unified License Agreement (QNFO-ULA) and relat
 
 ## Files
 
-- [LICENSE](LICENSE) — QNFO Unified License Agreement v2.0 (plain text)
-- [QNFO-ULA-v2.0.txt](QNFO-ULA-v2.0.txt) — Plain text version
-- [QNFO-ULA-v2.0.html](QNFO-ULA-v2.0.html) — HTML version (served at legal.qnfo.org)
+- [QNFO-ULA-v2.0.md](QNFO-ULA-v2.0.md) — Canonical Markdown source (source of truth)
+- [LICENSE](LICENSE) — QNFO Unified License Agreement v2.0 (plain text, derived from the canonical Markdown)
+- [QNFO-ULA-v2.0.txt](QNFO-ULA-v2.0.txt) — Plain text version (derived from the canonical Markdown)
+- [QNFO-ULA-v2.0.html](QNFO-ULA-v2.0.html) — HTML version (served at legal.qnfo.org, derived from the canonical Markdown)
 - [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) — Community standards
 - [CONTRIBUTING.md](CONTRIBUTING.md) — Contribution guidelines
 - [CONTACT](CONTACT) — Contact information
